@@ -12,13 +12,13 @@ Each of those folders needs these files:
   The game's logo. This will automatically be resized and rotated to fit the side and the back of the J-Card.
 * settings.txt  
   A text file containing these 4 lines:
-  * \<system>  
+  * _\<system>_  
   The game's system; either _GB_, _GBC_ or _GBA_.
-  * \<R>  
+  * _\<R>_  
   The red value of the J-Cards background color.
-  * \<G>  
+  * _\<G>_  
   The green value of the J-Cards background color.
-  * \<B>  
+  * _\<B>_  
   The blue value of the J-Cards background color.
 
 Execute _fill-all.sh_ - this generates the file _j-card.xcf_ in every subfolder where this file does not already exist. You can now open that file in GIMP and fine-tune the J-Card.
