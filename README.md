@@ -18,3 +18,5 @@ Each of those folders needs these files:
   The green value of the J-Cards background color.
   * \<B>  
   The blue value of the J-Cards background color.
+
+For covers see https://www.thecoverproject.net/.
