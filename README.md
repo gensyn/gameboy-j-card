@@ -19,6 +19,6 @@ Each of those folders needs these files:
   * _\<B>_  
   The blue value of the J-Cards background color.
 
-Execute _fill-all.sh_ - this generates the file _j-card.xcf_ in every subfolder where this file does not already exist. You can now open that file in GIMP and fine-tune the J-Card.
+Execute _fill-all.sh_ - this generates the file _j-card.xcf_ in every subfolder where this file does not already exist. You can now open the generated files in GIMP to fine-tune the J-Cards.
 
 Many covers are available at https://www.thecoverproject.net/.
