@@ -1,7 +1,5 @@
 # gameboy-j-card
 
-A generator script to create custom GameBoy, GameBoy Color and GameBoy Advance J-Cards to fit into cassette cases.
-
 Copy the file _fill-template.scm_ to your GIMP scripts folder. E.g. for GIMP 2.10 under Ubuntu 22.04 this is _~/.config/GIMP/2.10/scripts_.
 
 Copy the files _template.xcf_ and _fill-all.sh_ to the folder containing the folders with the files for your covers.  
