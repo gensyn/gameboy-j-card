@@ -3,7 +3,7 @@
 Copy the file _fill-template.scm_ to your GIMP scripts folder. E.g. for GIMP 2.10 under Ubuntu 22.04 this is _~/.config/GIMP/2.10/scripts_.
 
 Copy the files _template.xcf_ and _fill-all.sh_ to the folder containing the folders with the files for your covers.  
-Each of those folders needs these files:
+Each of those folders must contain these files:
 * cover.png  
   Portrait-oriented cover art for the game. This will automatically be resized to fit the cover of the J-Card.
 * logo.png  
