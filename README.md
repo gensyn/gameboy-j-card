@@ -11,7 +11,7 @@ Each of those folders needs these files:
 * settings.txt  
   A text file containing these 4 lines:
   * \<system>  
-  The game's system; either _GB_, GBC_ or _GBA_.
+  The game's system; either _GB_, _GBC_ or _GBA_.
   * \<R>  
   The red value of the J-Cards background color.
   * \<G>  
