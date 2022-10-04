@@ -7,7 +7,7 @@ Each of those folders needs these files:
 * cover.png  
   Portrait-oriented cover art for the game. This will automatically be resized to fit the cover of the J-Card.
 * logo.png  
-  The game's logo. This will automatically be resized to fit the side and the back of the J-Card.
+  The game's logo. This will automatically be resized and rotated to fit the side and the back of the J-Card.
 * settings.txt  
   A text file containing these 4 lines:
   * \<system>  
